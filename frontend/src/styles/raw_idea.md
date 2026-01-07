@@ -84,3 +84,6 @@ The system automatically converts everything into pure MQL5 code
 The result runs natively inside the MT5 environment.
 
 Read this prompt again from the top, and obey.
+
+
+@qsrsunstoic
