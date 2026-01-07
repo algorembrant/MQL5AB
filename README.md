@@ -1,4 +1,4 @@
-# 🚀 MQL5 Algo Bot Builder - Complete Setup Guide
+# 🚀 MQL5 Algo Bot Builder Terminal
 
 ## 🔧 Prerequisites
 
